@@ -1,0 +1,84 @@
+{
+    "revistas":[{
+        "ISSN":"4357-2321",
+        "temática":"moda",
+        "titulo":"La caída de Chanel, lo último en moda",
+        "idioma":["español", "inglés"],
+        "editorial":{
+            "nombre": "La Razon",
+            "direccion": "Calle editorial, Nº1",
+            "telefono": ["134-564-345","345-832-049"],
+            "editor-jefe":"Juan Pérez",
+            "editores":["Ana Mamani", "Kira Heredia"]
+        },
+        "fecha-publicacion": "2024-04-08",
+        "imagen-portada":"portada.jpg",
+        "valoracion":[{
+            "usuario": "usuario1",
+            "comentario":"Muchas gracias por la revista...",
+            "num-estrellas": 4
+        },{
+            "usuario": "usuario2",
+            "comentario":"La portada es muy mala...",
+            "num-estrellas": 2
+        }, {
+            "usuario": "usuario3",
+            "comentario":"Exelentes recomendaciones...",
+            "num-estrellas": 5
+        }]
+    },{
+        "ISSN":"5674-9823",
+        "temática":"informativo",
+        "titulo":"Asesinato en Madrid",
+        "idioma":["español", "frances"],
+        "editorial":{
+            "nombre": "Artes graficas SA",
+            "direccion": "Calle editorial2, Nº2",
+            "telefono": ["785-452-435"],
+            "editor-jefe":"María Lopez",
+            "editores":["José Muñoz", "Toru Nina"]
+        },
+        "fecha-publicacion": "2024-01-12",
+        "imagen-portada":"portada2.jpg",
+        "valoracion":[{
+            "usuario": "user1",
+            "comentario":"Fuerzas a la familia de la victima...",
+            "num-estrellas": 4
+        },{
+            "usuario": "user2",
+            "comentario":"Y el criminal?...",
+            "num-estrellas": 4
+        }, {
+            "usuario": "user3",
+            "comentario":"El gobierno no hace nada...",
+            "num-estrellas": 2
+        }]
+    },{
+        "ISSN":"0862-2433",
+        "temática":"infantil",
+        "titulo":"La muñeca que habla",
+        "idioma":["español", "inglés"],
+        "editorial":{
+            "nombre": "ToysNew",
+            "direccion": "Calle editorial3, Nº3",
+            "telefono": ["134-564-345","345-832-049", "458-241-345"],
+            "editor-jefe":"Clara Vazquez",
+            "editores":["Diego Blanco", "Mayra Gómez"]
+        },
+        "fecha-publicacion": "2024-03-28",
+        "imagen-portada":"portada.jpg",
+        "valoracion":[{
+            "usuario": "usuario1",
+            "comentario":"Que lindos juguetes...",
+            "num-estrellas": 5
+        },{
+            "usuario": "usuario2",
+            "comentario":"Las barbies subieron de precio...",
+            "num-estrellas": 1
+        }, {
+            "usuario": "usuario3",
+            "comentario":"Me gustan las recomendaciones...",
+            "num-estrellas": 5
+        }]
+    }]
+}
